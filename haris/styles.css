@@ -40,8 +40,12 @@
     	float: left;
     	width: 180px;
     }
-    div.virginimg, img.iconimg:hover {
+    div.virginimg:hover {
     	border: 2px solid #777;
+    }
+    img.iconimg:hover {
+        border: 2px solid #777;
+
     }
     div.virginimg img {
     	width: 100%;
