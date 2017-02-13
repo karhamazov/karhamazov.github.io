@@ -52,3 +52,7 @@
         clear: left;
         left:0;
     }
+
+    div.youtube {
+        float: right;
+    }
