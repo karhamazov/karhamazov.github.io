@@ -1,0 +1,12 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Arham's New Website"
+theme = "cocoa-eh"
+
+[params]
+dateform = "Jan 2, 2006"
+dateformfull = "Mon Jan 2 2006 15:04:05 MST"
+logofile = "img/logo.png"
+faviconfile = "img/favicon.ico"
+progressively = true
+lang = "en"
